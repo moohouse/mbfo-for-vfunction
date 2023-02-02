@@ -1,1 +1,0 @@
-{"pageProps":{"sortList":[{"cd":"PDD","cdNm":"진행 중인 이벤트"},{"cd":"PFF","cdNm":"종료된 이벤트"}],"fallback":{"/api/fo/board/event?offset=20&page=1&evtStsCd=PDD":{"totalCount":0,"result":[]}}},"__N_SSG":true}
